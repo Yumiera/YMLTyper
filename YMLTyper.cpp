@@ -40,7 +40,7 @@ void switchToEnglishInput(HWND hwnd) {
 }
 
 int main() {
-    std::cout << "YMLTyper by Yum1era |重在参与|重在参与|重在参与|重在参与|已老实求放过|已老实求放过|已老实求放过" << std::endl;
+    std::cout << "YMLTyper by Yum1era" << std::endl;
     // 初始延迟，确保光标已经放置在目标窗口中
     std::this_thread::sleep_for(std::chrono::seconds(5));
 
